@@ -1,4 +1,4 @@
-# VQE-Harmonic-Oscilattor
+# VQE-Harmonic-Oscillator
 This is a simple proof of concept of using Qiskit's VQE and Wolfram Mathematica to find the ground eigenvalue of a Quantum Harmoinc Oscillator. I have done runs using the state_vector simulator with simulated noise and on a real device.
 # Steps
 1. Load the Mathematica notebook H_QHO to create the Hamiltonian.
