@@ -1,0 +1,41 @@
+
+
+SPSA
+
+c9u2qo68u8mfr0d8u68g (0.66)
+
+COBYLA
+
+c9u361u8u8mfr0d903gg (6.47)
+
+Real Amplitudes
+
+c9u4s7kj5t1ttvd4nhh0 (0.63)
+
+
+EffSU2
+
+c9u558cj5t1ttvd4obmg (0.67)
+c9u9094j5t1ttvd539i0 (0.67)
+
+QHO
+
+c9u8vlrf2jb93li7phvg (0.53)
+c9uahasj5t1ttvd579tg (1.64)
+c9ucq5e8u8mfr0d9pij0 (0.90)
+c9uftukj5t1ttvd5igq0(2.62)
+c9ufutm8u8mfr0d9vvlg( 0.76)
+c9uitekj5t1ttvd6mub0 ()
+
+
+CAHO
+
+c9ue3skj5t1ttvd5eung (1.33)
+c9ucd2jf2jb93li81g20 (0.84)
+c9ugke68u8mfr0da1o10(0.94)
+
+QAHO
+
+c9uf80sj5t1ttvd5h2hg (1.89)
+c9uceom8u8mfr0d9onb0 (0.85)
+c9uhup4j5t1ttvd693i0 (0.98)
