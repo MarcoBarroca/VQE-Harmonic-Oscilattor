@@ -3,7 +3,7 @@ This is a simple proof of concept of using Qiskit's VQE to find the ground eigen
 
 Note that we utilize a discrete version of the Hamiltonian, which means eigenvalues won't agree for the entire spectrum. Fortunately they do agree at the ground state.
 
-I also included a powerpount prsesntation and handouts for this project.
+I also included a powerpount presentation and handouts for this project.
 
 # **DEPRECATED** Steps (Old files in Archive folder)
 The previous method required the use of Wolfram Mathematica to crete and decompose the HAmiltionian into Pauli matrix sums.
